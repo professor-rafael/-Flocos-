@@ -1,8 +1,8 @@
 let flock;
 
 function setup() {
-  createCanvas(440, 560);
-  createP("");
+  createCanvas(1550, 800);
+  createP("Professor-Rafael");
 
   flock = new Flock();
   // Add an initial set of boids into the system
